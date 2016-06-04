@@ -36,5 +36,5 @@ After dependency setup, just run `dev_server.sh` to begin. It should auto-load u
     $ cd server
     $ bundle install
 
-## Contact ## 
+## Contact ##
 If you find anything stupid, [Tweet](https://twitter.com/Zambini845) at me or submit a Pull Request. As sarcastic as I may sound, I welcome constructive feedback.
