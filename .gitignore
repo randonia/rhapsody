@@ -1,0 +1,9 @@
+.DS_Store
+*.sublime-workspace
+
+# Ruby stuff
+# Comment this line when you want to commit your lockfile
+*Gemfile.lock
+*.bundle/
+# Uncomment this line if you want to commit your rbenv ruby-version
+.ruby-version

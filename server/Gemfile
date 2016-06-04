@@ -1,0 +1,16 @@
+source 'https://rubygems.org'
+
+gem 'oj', '2.15.0'
+gem 'sinatra', '1.4.7'
+gem 'faker', '1.6.3'
+
+group :test, :development do
+  gem 'awesome_print'
+  gem 'pry'
+  gem 'rerun'
+  gem 'rspec', '~> 3.0'
+end
+
+group :test do
+  gem 'database_cleaner'
+end

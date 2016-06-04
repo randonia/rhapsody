@@ -1,0 +1,10 @@
+{
+    "folders":
+    [
+        {
+            "name": "Rhapsody Template",
+            "path": ".",
+            "folder_exclude_patterns": [".bundle"]
+        }
+    ]
+}
